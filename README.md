@@ -11,12 +11,7 @@
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
-## Demo
 
-[https://chatappbackend-cnsz.onrender.com/chats](https://chatappbackend-cnsz.onrender.com/chats)
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
