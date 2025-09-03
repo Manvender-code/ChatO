@@ -1,12 +1,9 @@
-<p>Name - Aditya Nagar</p>
+<p>By - Manvender and Mayank</p>
 <p>University - Indian Institute of Technology (BHU) Varanasi</p>
-<p>Department - Mining</p>
-<p>RollNo - 21154001</p>
+<p>Department - MnC</p>
+<p>RollNo - 21124027 & 21124028</p>
 
-# Talk-A-Tive
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
 **Client:** React JS
@@ -58,25 +55,3 @@ Start the Client
   npm start
 ```
 
-  
-# Features
-
-### Authenticaton
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/login.PNG)
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/Adityanagar1902/ChatApp/blob/master/screenshots/add%20rem.PNG)
-
-
-
-  
